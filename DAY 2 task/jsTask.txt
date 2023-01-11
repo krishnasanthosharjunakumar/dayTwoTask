@@ -1,0 +1,17 @@
+  For better understanding  for this concepts,
+1windows is a parent object.
+2document is a child object.
+3some and more windows are present in browser JS and not present in node js
+example:   some most seen windows methods,are
+                    window.globalthis()
+                    window.alert()
+                    window.screen()
+                     window.prompt() 
+                    window.print();
+                    and more
+4.window objects represent a window in a browser.
+5..window objects containing an document(DOM).
+6. Document object is the propertey  of the windows object  that represents  DOM document  loaded in that window.
+7. Document contains the content  structure of the page.
+8. The document object is your HTML other document that loaded into your browser.
+9. windows contains properties and methods.
